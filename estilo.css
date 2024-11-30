@@ -17,5 +17,7 @@
 }
 
 .imagem-pizza-cabecalho{
+    border-radius: 0 auto;
+    background-color: var(--fundo-texto);
     width: 15%;
 }
