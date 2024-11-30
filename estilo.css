@@ -1,3 +1,18 @@
-.segunda{
+:root{
+    --fundo-site: #d1cfce;
+    --background-cabecalho: #c44024;
+    --fundo-texto: #fff;
+    --borda-cabecalho: #333130;
+}
+
+.body{
+    background-color: var(--fundo-site);
+}
+
+.cabecalho {
+    text-align: center;
     display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    background-color: var(--background-cabecalho);
 }
