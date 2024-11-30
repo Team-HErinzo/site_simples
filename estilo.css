@@ -22,7 +22,7 @@
 
 .textos-cabecalho{
     width: 110%;
-    border-radius: 2cap;
-    border-color: var(--borda-cabecalho);
+    border: 3px var(--borda-cabecalho);
+    border-radius: 20px;
     background-color: var(--fundo-texto);
 }
