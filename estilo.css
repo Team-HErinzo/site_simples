@@ -25,3 +25,11 @@
     border-radius: 20px;
     background-color: var(--fundo-texto);
 }
+
+.partedebaixo{
+    display: flex;
+}
+
+.segundaparte{
+    width: 20%;
+}
