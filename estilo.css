@@ -11,8 +11,12 @@
 
 .cabecalho {
     text-align: center;
+    justify-content: center;
     display: flex;
-    justify-content: space-around;
     padding: 24px 0;
     background-color: var(--background-cabecalho);
+}
+
+.imagem-pizza-cabecalho{
+    width: 30%;
 }
