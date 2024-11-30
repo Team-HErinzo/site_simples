@@ -3,6 +3,7 @@
     --background-cabecalho: #c44024;
     --fundo-texto: #fff;
     --borda-cabecalho: #333130;
+    --pizzasuculentabg: #2f710f;
 }
 
 .body{
@@ -28,6 +29,10 @@
 
 .partedebaixo{
     display: flex;
+}
+
+.primeiraparte{
+    background-color: var(--pizzasuculentabg);
 }
 
 .segundaparte{
